@@ -1,8 +1,8 @@
 # stochastic-de-exploratory-notes
 
-**Author:** Jesús Morales Souhail · ORCID [0009-0000-7637-1818](https://orcid.org/0009-0000-7637-1818)  
-**Status:** Exploratory / pedagogical / method-hygiene notes — **not a cosmology claim set**  
-**Date:** July 2026  
+**Author:** Jesús Morales Souhail · ORCID [0009-0000-7637-1818](https://orcid.org/0009-0000-7637-1818) 
+**Status:** Exploratory / pedagogical / method-hygiene notes — **not a cosmology claim set** 
+**Date:** July 2026 
 
 ---
 
@@ -12,16 +12,16 @@ A **quarantine** for scale–operator hygiene, optical analogies, and pedagogica
 
 These materials are useful to **avoid wrong questions** (wrong scale or wrong operator). They are **not**:
 
-- DESI BAO likelihood results  
-- constraints on $\sigma_X$  
-- detections or exclusions of cosmological models suitable for the main preprint abstract  
+- DESI BAO likelihood results 
+- constraints on $\sigma_X$ 
+- detections or exclusions of cosmological models suitable for the main preprint abstract 
 
 ## What this repository is *not*
 
 The peer-review scientific claim set lives only here:
 
-**https://github.com/jesus-morales-souhail/stochastic-dark-energy-ou**  
-**Manuscript:** `manuscript/PREPRINT.md` in that repository  
+**https://github.com/jesus-morales-souhail/stochastic-dark-energy-ou** 
+**Manuscript:** `manuscript/PREPRINT.md` in that repository 
 
 If a result does not constrain cosmology at the correct scale and operator, it belongs **here**, not in the preprint abstract.
 
@@ -57,13 +57,13 @@ If a result does not constrain cosmology at the correct scale and operator, it b
 ## Relation to the main programme
 
 ```
-stochastic-dark-energy-ou          ← peer-review claims (BAO, exclusions, amplification)
-        │
-        └── manuscript/PREPRINT.md
-                │
-                X  does not import optical digressions as results
-                │
-stochastic-de-exploratory-notes    ← this repo (hygiene / pedagogy / speculation fence)
+stochastic-dark-energy-ou ← peer-review claims (BAO, exclusions, amplification)
+ │
+ └── manuscript/PREPRINT.md
+ │
+ X does not import optical digressions as results
+ │
+stochastic-de-exploratory-notes ← this repo (hygiene / pedagogy / speculation fence)
 ```
 
 Lab wavefront-shaping experiments (hardware) are yet another project:
@@ -74,7 +74,7 @@ Lab wavefront-shaping experiments (hardware) are yet another project:
 
 ## License
 
-- Code: MIT  
+- Code: MIT 
 - Text: CC BY 4.0 (author-written notes)
 
 ---

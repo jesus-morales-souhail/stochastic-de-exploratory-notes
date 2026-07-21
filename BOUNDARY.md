@@ -7,5 +7,5 @@
 | Lab transfer-matrix pedagogy | Equating lab $T$ with cosmological OU |
 | Scale/operator hygiene essays | Hiding free $A_0$ as microphysics |
 
-**Primary cosmology claims:** only in  
+**Primary cosmology claims:** only in 
 https://github.com/jesus-morales-souhail/stochastic-dark-energy-ou · `manuscript/PREPRINT.md`

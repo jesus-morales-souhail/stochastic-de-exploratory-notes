@@ -1,14 +1,14 @@
 # Scale / operator map: closed results and correct next experiments
 
-**Author:** Jesús Morales Souhail  
-**Date:** July 2026  
-**Status:** Experimental logic map (closes the car–drone–pupil result; points to correct probes)  
-**Related:**  
-`papers/car-drone-pupil-newton-einstein.md`,  
-`scripts/car_drone_pupil_newton_einstein.py`,  
-`papers/anisotropic-slip-option0.md`,  
-`papers/self-shielding-vs-untestability.md`,  
-`papers/no-go-superoscillation-tesseract.md`,  
+**Author:** Jesús Morales Souhail 
+**Date:** July 2026 
+**Status:** Experimental logic map (closes the car–drone–pupil result; points to correct probes) 
+**Related:** 
+`papers/car-drone-pupil-newton-einstein.md`, 
+`scripts/car_drone_pupil_newton_einstein.py`, 
+`papers/anisotropic-slip-option0.md`, 
+`papers/self-shielding-vs-untestability.md`, 
+`papers/no-go-superoscillation-tesseract.md`, 
 `papers/resume.txt`
 
 ---
@@ -17,7 +17,7 @@
 
 A measurement is only informative if **both** are right:
 
-1. **Scale** — length, time, energy, redshift range where the effect is $\mathcal{O}(1)$ or at least above noise.  
+1. **Scale** — length, time, energy, redshift range where the effect is $\mathcal{O}(1)$ or at least above noise. 
 2. **Operator** — which field / combination of observables couples to the mechanism (e.g. isotropic residual on $D_V$ vs slip $\Phi/\Psi$ vs free-photon travel time).
 
 Wrong scale **or** wrong operator ⇒ null result that **does not** falsify the deep premise; it only falsifies “this effect is large here.”
@@ -28,10 +28,10 @@ Wrong scale **or** wrong operator ⇒ null result that **does not** falsify the 
 
 | Item | Value |
 |------|--------|
-| Setup | Car and drone co-moving at $120\,\mathrm{km/h}$; $D=1\,\mathrm{mm}$; $\lambda=550\,\mathrm{nm}$ |
+| Setup | Car and drone co-moving at $120 \mathrm{km/h}$; $D=1 \mathrm{mm}$; $\lambda=550 \mathrm{nm}$ |
 | Newton / Galileo | Relative $v=0$ ⇒ **identical** Airy pattern inside and for the drone |
 | Einstein (SR) | Relative $\beta=0$ ⇒ same; even vs road, $\beta/\theta_{\mathrm{Airy}}\sim 10^{-4}$ |
-| Hubble stretch | $\Delta L\sim 10^{-16}\,\mathrm{m}$ per metre per minute |
+| Hubble stretch | $\Delta L\sim 10^{-16} \mathrm{m}$ per metre per minute |
 | Tesseract / 4D optical claim | **Not present** in any consistent calculation |
 
 ### Verdict (closed)
@@ -76,7 +76,7 @@ Wrong scale **or** wrong operator ⇒ null result that **does not** falsify the 
 | Scientific question | Wrong setup | Correct scale | Correct operator | Experiment |
 |---------------------|-------------|---------------|------------------|------------|
 | Inertial diffraction | Expect Hubble in the eye | $\beta\sim 10^{-7}$ highway | Airy vs aberration | **Closed** (car–drone) |
-| Relativistic aberration of diffraction | 120 km/h | $v\sim 10^2\,\mathrm{km/s}$ or lab $\beta$ with precision metrology | Angular pattern + Doppler | Not required for cosmology programme |
+| Relativistic aberration of diffraction | 120 km/h | $v\sim 10^2 \mathrm{km/s}$ or lab $\beta$ with precision metrology | Angular pattern + Doppler | Not required for cosmology programme |
 | Equivalence principle (accelerating car) | Constant $v$ | Acceleration $a$, light-crossing time of apparatus | Effective $g$ tilt of rays / clocks | Optional add-on (not expansion) |
 | Cosmic expansion with light | Pupil in car | Gpc path, $z\sim 0.1\text{–}2$ | Redshift, BAO $D_M,D_H$, SN $\mu(z)$ | DESI / Euclid (this repo) |
 
@@ -85,11 +85,11 @@ Wrong scale **or** wrong operator ⇒ null result that **does not** falsify the 
 ## 3. Ordered programme (what to do next)
 
 ### Already closed
-1. Car–drone–pupil @ 120 km/h → **wrong scale / wrong operator** for expansion and for “4D diffraction.”  
-2. Superoscillation energy tax demo → Born peaje real.  
-3. Tesseract optical claim → no-go (undeclared power).  
-4. DESI BAO OU residual → $\sigma_X$ upper limit; no detection.  
-5. Tachyonic coherent growth → excluded with correct covariance.  
+1. Car–drone–pupil @ 120 km/h → **wrong scale / wrong operator** for expansion and for “4D diffraction.” 
+2. Superoscillation energy tax demo → Born peaje real. 
+3. Tesseract optical claim → no-go (undeclared power). 
+4. DESI BAO OU residual → $\sigma_X$ upper limit; no detection. 
+5. Tachyonic coherent growth → excluded with correct covariance. 
 6. Option 0 slip → Maus et al. definition verified; amplitude still kills easy detection.
 
 ### Next experiments (correct scale + operator)
