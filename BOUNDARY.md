@@ -1,6 +1,6 @@
 # Claim boundary
 
-| Allowed here | Forbidden as “DESI result” |
+| Allowed here | Excluded as “DESI result” |
 |:-------------|:---------------------------|
 | Wrong-scale experiments (pupil, highway) | Quoting Airy patterns as BAO constraints |
 | Optical no-gos ($B_4$, superoscillation tax) | Claiming tesseract amplifies $\sigma_X$ |
