@@ -1,11 +1,11 @@
-# Claim boundary
+# Boundary
 
-| Allowed here | Excluded as “DESI result” |
-|:-------------|:---------------------------|
-| Wrong-scale experiments (pupil, highway) | Quoting Airy patterns as BAO constraints |
-| Optical no-gos ($B_4$, superoscillation tax) | Claiming tesseract amplifies $\sigma_X$ |
-| Lab transfer-matrix pedagogy | Equating lab $T$ with cosmological OU |
-| Scale/operator hygiene essays | Hiding free $A_0$ as microphysics |
+Jesús Morales Souhail · [github.com/jesus-morales-souhail](https://github.com/jesus-morales-souhail)
 
-**Primary cosmology claims:** only in 
-https://github.com/jesus-morales-souhail/stochastic-dark-energy-ou · `manuscript/PREPRINT.md`
+Anything here is exploratory or pedagogical.
+
+It may help me (or you) see when a claim is at the wrong scale or uses the wrong operator.  
+It does **not** constrain cosmology on its own.
+
+For DESI residual claims → `stochastic-dark-energy-ou`.  
+For residual-scale theory → `measurable-stochastic-vacuum`.
