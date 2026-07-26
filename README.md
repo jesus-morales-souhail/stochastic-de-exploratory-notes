@@ -10,7 +10,7 @@ While I worked on DESI BAO residuals and the theory map, I also played with opti
 ## What this is not
 
 - DESI BAO likelihood results  
-- a bound on \(\sigma_X\)  
+- a bound on $\sigma_X$  
 - a detection or exclusion you should put in a paper abstract  
 
 ## Where the real claims live
