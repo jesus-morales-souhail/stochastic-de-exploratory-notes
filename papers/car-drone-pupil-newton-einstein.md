@@ -18,7 +18,7 @@ I wanted a clean local experiment that people sometimes try to load with cosmolo
 
 The question I ask is whether the Airy pattern changes under Newton versus Einstein, and whether cosmic expansion shows up at all.
 
-I deliberately leave out hypercubes, Coxeter $B_4$, and any undeclared 4D optical engine.
+I deliberately leave out hypercubes, Coxeter $B_{4}$, and any undeclared 4D optical engine.
 
 ---
 
@@ -33,9 +33,9 @@ I deliberately leave out hypercubes, Coxeter $B_4$, and any undeclared 4D optica
 
 ### A) Expansion versus local binding
 
-$$
+
 H_0 \sim 2\times 10^{-18}\,\mathrm{s}^{-1} \qquad\Rightarrow\qquad v_H = H_0 L
-$$
+
 
 | $L$ | $v_H = H_0 L$ |
 |-------|-----------------|
@@ -60,9 +60,9 @@ With car and drone co-moving, relative velocity is zero. The passenger and the d
 
 ### D) Einstein (special relativity)
 
-$$
+
 \beta = \frac{v}{c} \approx 1.1\times 10^{-7},\qquad \gamma-1 \approx 6\times 10^{-15}.
-$$
+
 
 - **Correct setup** (matched velocities): relative $\beta = 0$, so no contraction or Doppler between car and drone, and the Airy pattern is identical.
 - **Wrong setup** (drone fixed to the road): aberration is $\sim\beta$ rad $\approx 0.023''$, while the Airy angle is $\sim 138''$ for 1 mm, so $\beta/\theta_{\mathrm{Airy}}\sim 10^{-4}$. That is undetectable as any “tesseract-like” distortion of the pupil pattern.
