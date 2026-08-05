@@ -30,7 +30,7 @@ In unimodular / SDiff-oriented narratives, vacuum pieces $\propto g_{\mu\nu}$ ar
 Public DESI DR2 BAO residual analysis:
 
 
-\sigma_X < 1.5\times 10^{-4}$ (95\% CL).
+$\sigma_X < 1.5\times 10^{-4}$ (95% CL).
 
 
 MLE drives $\sigma_X\to 0$; stochastic extensions are not preferred (AIC penalty).
