@@ -1,13 +1,13 @@
 # Triple self-shielding: why “phase tricks” have 0% chance as real physics and 100% as math analogy
 
-**Author:** Jesús Morales Souhail  
-**Date:** July 2026  
-**Status:** Closed verdict on the optics–tesseract–OU merger  
-**Related:**  
-`papers/no-go-superoscillation-tesseract.md`,  
-`papers/optics-ou-analogies-and-limits.md`,  
-`papers/self-shielding-vs-untestability.md`,  
-`papers/pattern-undeclared-physical-power.md`,  
+**Author:** Jesús Morales Souhail
+**Date:** July 2026
+**Status:** Closed verdict on the optics–tesseract–OU merger
+**Related:**
+`papers/no-go-superoscillation-tesseract.md`,
+`papers/optics-ou-analogies-and-limits.md`,
+`papers/self-shielding-vs-untestability.md`,
+`papers/pattern-undeclared-physical-power.md`,
 `scripts/superoscillation_energy_cost_demo.py`
 
 ---
@@ -19,7 +19,7 @@
 | Elegant **mathematical analogy** (map equations across domains) | **High / useful** |
 | Real **mechanism** that forces a single photon into a sub-diffraction core with certainty, or bypasses Born / band-limit / thermo | **0%** |
 
-The reason the physical probability is zero is not that I have not optimised the geometry enough.  
+The reason the physical probability is zero is not that I have not optimised the geometry enough.
 It is that **the laws themselves shield the mechanism** against that abuse.
 
 ---
@@ -54,7 +54,7 @@ It is that **the laws themselves shield the mechanism** against that abuse.
 
 **Shield:** Diffusion term $\sigma\,\mathrm{d}W$ (and, physically, thermal / quantum noise) destroys the phase coherence required for a deterministic “perfect focus” of a stochastic envelope.
 
-**Why it fails as identity:** In the repo, $\theta$ is a **mean-reversion rate** in $x=\ln a$, entering residual **covariance**, not a quadratic optical phase on the sky. As analogy, $\tau\leftrightarrow f$ is optional pedagogy. As physics identity, it is undeclared power. Empirically $\sigma_X\to 0$; there is no measured “cosmic waist.”
+**Why it fails as identity:** In the repo, $\theta$ is a **mean-reversion rate** in $x=\ln a$, entering residual **covariance**, not a quadratic optical phase on the sky. As analogy, $\tau\leftrightarrow f$ is optional analogy. As physics identity, it is undeclared power. Empirically $\sigma_X\to 0$; there is no measured “cosmic waist.”
 
 **Closed sentence:** Noise shields perfect focusing of a stochastic field; $\theta$ is not Descartes’ $f$.
 
@@ -68,14 +68,14 @@ It is that **the laws themselves shield the mechanism** against that abuse.
 | Tesseract SLM | Maxwell + $k_{\max}$ | “How many cubes open extra $k$?” | “What $\Phi(x,y)$ implements which ABCD?” |
 | Stochastic DE | Small $\sigma_X$, SDiff on isotropic stress | “Does the vacuum tremble in my pupil / with free phase?” | “What bound on $\sigma_X$ / which concrete model dies?” |
 
-Nature’s mechanism **blinds** the attempt to **violate** probability, band-limit, or free work.  
+Nature’s mechanism **blinds** the attempt to **violate** probability, band-limit, or free work.
 It does **not** blind **honest measurements** of amplitudes at the correct operator.
 
 ---
 
 ## What I keep
 
-1. **Pedagogy:** Fresnel + thin lens + Born; OU mean-reversion as a *structural* analogue of a restoring parameter.
+1. **Teaching material:** Fresnel + thin lens + Born; OU mean-reversion as a *structural* analogue of a restoring parameter.
 2. **Numerics:** `superoscillation_energy_cost_demo.py` as evidence of the energy tax.
 3. **Cosmology programme:** limits, model exclusion, Option 0 slip with amplification honesty.
 
@@ -89,7 +89,7 @@ It does **not** blind **honest measurements** of amplitudes at the correct opera
 
 ## Final answer to “más por aquí”
 
-Yes: **this** direction — naming the triple shield and closing the 0% / 100% split — is the correct closure of the optics–tesseract branch.  
+Yes: **this** direction — naming the triple shield and closing the 0% / 100% split — is the correct closure of the optics–tesseract branch.
 Next work returns to **correct scale + correct operator** (BAO residuals, concrete models, amplification theory if any), not to more geometry that tries to outrun Born.
 
 ---

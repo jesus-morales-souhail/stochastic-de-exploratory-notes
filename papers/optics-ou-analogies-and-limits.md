@@ -1,9 +1,9 @@
 # Three questions: quantum lens, tesseract→ABCD, and “focal length” in the OU model
 
-**Author:** Jesús Morales Souhail  
-**Date:** July 2026  
-**Status:** Formal mapping with explicit **yes / analogy only / no**  
-**Related:** `no-go-superoscillation-tesseract.md`, `car-drone-pupil-newton-einstein.md`, `stochastic-dark-energy-desi-dr2.md`  
+**Author:** Jesús Morales Souhail
+**Date:** July 2026
+**Status:** Formal mapping with explicit **yes / analogy only / no**
+**Related:** `no-go-superoscillation-tesseract.md`, `car-drone-pupil-newton-einstein.md`, `stochastic-dark-energy-desi-dr2.md`
 **Repo $\theta$, $\sigma$:** OU kernel $C(\Delta x)=\sigma_X^2 e^{-\theta\lvert \Delta x \rvert}$; MLE drives $\sigma_X\to 0$, $\theta$ poorly constrained near the boundary
 
 ---
@@ -52,8 +52,8 @@ P(\mathbf{r},s_i)=\Big|\mathcal{F}\!\left\{\psi_{\mathrm{in}} A \exp\!\Big(i\fra
 | Probability concentrates to a point when $\Delta R^{-1}=0$ | **No.** A focused mode still has finite Airy / diffraction size set by $A$ and $\lambda$. |
 | “Perfect phase” forces detection at the geometric image point | **No.** Born uses the full $\lvert \psi \rvert^2$; side lobes remain. |
 
-**Answer to Q1:** Yes to a **careful** single-photon *mode* statement:  
-**Descartes remains the condition $\Delta R^{-1}=0$ for quadratic phase cancellation; probability is $\lvert \psi \rvert^2$ after Fresnel propagation.**  
+**Answer to Q1:** Yes to a **careful** single-photon *mode* statement:
+**Descartes remains the condition $\Delta R^{-1}=0$ for quadratic phase cancellation; probability is $\lvert \psi \rvert^2$ after Fresnel propagation.**
 No to replacing Descartes with a formula that gives a deterministic sub-diffraction hit for one photon.
 
 ---
@@ -97,8 +97,8 @@ A **real** SLM programme would be:
 
 No $B_{4}$ required. OAM $\propto \ell\phi$ is standard and **not** a tesseract theorem.
 
-**Answer to Q2:**  
-**I implement quadratic (and higher) phases on an SLM as usual.**  
+**Answer to Q2:**
+**I implement quadratic (and higher) phases on an SLM as usual.**
 **I do *not* get a derived “tesseract ABCD” until someone builds Maxwell + device geometry → $M$.** Until then, I treat tesseract language as **undeclared physical power** (same pattern as $\ln 4 \equiv \omega_R$).
 
 ---
@@ -152,8 +152,8 @@ without a derived map $\theta \leftrightarrow$ metric curvature / wavefront radi
 
 In open-system notes, $t_{1/2}=\ln 2/\gamma$ with $\gamma\leftrightarrow\theta H_0$ is a **relaxation time**, again analogous to a rate, not to an optical $f$ in metres.
 
-**Answer to Q3:**  
-The closest **repo parameter** to a “restoring strength” is **$\theta$** (or $\tau=1/\theta$).  
+**Answer to Q3:**
+The closest **repo parameter** to a “restoring strength” is **$\theta$** (or $\tau=1/\theta$).
 I call it a **formal analogy** to $1/f$, not a replacement of Descartes by cosmology.
 
 ---
@@ -172,7 +172,7 @@ I call it a **formal analogy** to $1/f$, not a replacement of Descartes by cosmo
 
 ---
 
-## Minimal equations to keep (if writing a pedagogy note)
+## Minimal equations to keep (if writing a short note)
 
 **Optics (OK):**
 

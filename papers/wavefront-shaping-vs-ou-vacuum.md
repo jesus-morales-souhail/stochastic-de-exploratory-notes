@@ -1,13 +1,13 @@
 # Wavefront shaping vs the OU residual: what transfers and what does not
 
-**Author:** Jesús Morales Souhail  
-**Date:** July 2026  
-**Status:** Boundary note (optics of disordered media ≠ BAO OU model)  
-**Related:**  
-`papers/self-shielding-triple-barrier.md`,  
-`papers/optics-ou-analogies-and-limits.md`,  
-`papers/anisotropic-slip-option0.md`,  
-`papers/scale-operator-experiment-map.md`,  
+**Author:** Jesús Morales Souhail
+**Date:** July 2026
+**Status:** Boundary note (optics of disordered media ≠ BAO OU model)
+**Related:**
+`papers/self-shielding-triple-barrier.md`,
+`papers/optics-ou-analogies-and-limits.md`,
+`papers/anisotropic-slip-option0.md`,
+`papers/scale-operator-experiment-map.md`,
 `papers/stochastic-dark-energy-desi-dr2.md`
 
 ---
@@ -24,7 +24,7 @@
 | That calculation is already “well-defined and closed” for DESI $\sigma_X$ and GRB data | **False** — wrong identification of fields and scales |
 | “Principal modes immune to DE fluctuations” as an observational channel today | **Speculation**, not a derived pipeline |
 
-I do **not** put wavefront-shaping-of-the-vacuum as a core result of this work.  
+I do **not** put wavefront-shaping-of-the-vacuum as a core result of this work.
 I **do** put: honest scale/operator separation and, if ever, a carefully scoped GR+Maxwell calculation with its own amplitude assumptions.
 
 ---
@@ -134,7 +134,7 @@ with $\sigma_X$ from DESI BAO is **not** a theorem of this work.
 
 The **good** methodological move from disordered-media optics is:
 
-> **Characterise the actual operator that couples to your probe.**  
+> **Characterise the actual operator that couples to your probe.**
 > Do not fight a cartoon enemy; do not claim control you do not have.
 
 That supports Option 0 (slip for anisotropic stress) and BAO residual kernels — **not** vacuum wavefront shaping.

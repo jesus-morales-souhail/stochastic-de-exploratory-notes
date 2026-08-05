@@ -1,9 +1,9 @@
 # Self-shielding vs untestability: how the vacuum-noise mechanism hides
 
-**Author:** Jesús Morales Souhail  
-**Date:** July 2026  
-**Status:** Conceptual note (honest status of the programme)  
-**Repository:** https://github.com/jesus-morales-souhail/stochastic-dark-energy-ou  
+**Author:** Jesús Morales Souhail
+**Date:** July 2026
+**Status:** Conceptual note (honest status of the programme)
+**Repository:** https://github.com/jesus-morales-souhail/stochastic-dark-energy-ou
 **Related:** `papers/anisotropic-slip-option0.md`, `papers/sdiff-fundamental-vs-emergent.md`, `papers/fundamental-vs-emergent-vacuum-relaxation.md`, `papers/resume.txt`
 
 ---
@@ -22,7 +22,7 @@ Does the SDiff / unimodular + stochastic residual mechanism **shield itself** so
 
 In unimodular / SDiff-oriented narratives, vacuum pieces $\propto g_{\mu\nu}$ are projected out of the local sourcing of curvature. Dark energy can be read as a **global / integration-constant** sector rather than a new local particle species.
 
-**What this shields against:** naive “look for a new DE particle in the lab” searches.  
+**What this shields against:** naive “look for a new DE particle in the lab” searches.
 **What it does not shield against:** background $w(z)$ tests, residual BAO smoothness, growth/slip if a non-isotropic operator exists, or external premises (e.g. spacetime discreteness via non-gravitational channels).
 
 ### 2.2 Amplitude layer — numbers from this repo
@@ -30,10 +30,10 @@ In unimodular / SDiff-oriented narratives, vacuum pieces $\propto g_{\mu\nu}$ ar
 Public DESI DR2 BAO residual analysis:
 
 
-\sigma_X < 1.5\times 10^{-4}\quad(95\%~\mathrm{CL}).
+\sigma_X < 1.5\times 10^{-4}$ (95\% CL).
 
 
-MLE drives $\sigma_X\to 0$; stochastic extensions are not preferred (AIC penalty).  
+MLE drives $\sigma_X\to 0$; stochastic extensions are not preferred (AIC penalty).
 See `papers/resume.txt`, `papers/stochastic-dark-energy-desi-dr2.md` in the science repos.
 
 **What this means:** any **isotropic residual** of the size of the bare Sorkin-scale seed ($\sim 10^{-61}$) is **hopelessly** below BAO. Even the **effective** bound $10^{-4}$ is already a null for OU/QNM residuals on the kernel used.
@@ -50,7 +50,7 @@ Gravitational slip (Maus et al. arXiv:2505.20656):
 \gamma=\frac{\Phi}{\Psi},\qquad \gamma=1.17\pm 0.11\ \text{(GR: }1\text{)},
 
 
-sensitivity $\mathcal{O}(0.1)$ on $\lvert \gamma-1 \rvert$.  
+sensitivity $\mathcal{O}(0.1)$ on $\lvert \gamma-1 \rvert$.
 Order-of-magnitude from $\sigma_X\sim 10^{-4}$, $f=1$:
 
 

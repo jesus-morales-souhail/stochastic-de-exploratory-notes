@@ -1,8 +1,8 @@
 # Pattern note: undeclared physical power from elegant math
 
-**Author:** Jesús Morales Souhail  
-**Date:** July 2026  
-**Status:** Methodological hygiene  
+**Author:** Jesús Morales Souhail
+**Date:** July 2026
+**Status:** Methodological hygiene
 **Repository:** https://github.com/jesus-morales-souhail/stochastic-dark-energy-ou
 
 ---
@@ -25,7 +25,7 @@ I keep seeing the same move, including in my own scratch work:
 | Tesseract / 8 cubes / $B_{4}$ | Extra phase control beyond SLM | Geometry true; **optical map not derived** — see `no-go-superoscillation-tesseract.md` |
 | SDiff | “Shield forever from all tests” | Selective protection of isotropic $T\propto g_{\mu\nu}$; BAO already constrains residuals — see `self-shielding-vs-untestability.md` |
 
-Archived example (not on the public main tree as active science):  
+Archived example (not on the public main tree as active science):
 `local_archive/.../quantum_information_cosmos.py` — compares $\omega_R$ to $\ln 4$, horizon entropy plots, speculative $\alpha$–mass links.
 
 ## Filter (use before writing a paper sentence)

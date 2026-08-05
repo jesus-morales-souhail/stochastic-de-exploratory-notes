@@ -1,14 +1,14 @@
 # Scale / operator map: closed results and correct next experiments
 
-**Author:** Jesús Morales Souhail  
-**Date:** July 2026  
-**Status:** Experimental logic map (closes the car–drone–pupil result; points to correct probes)  
-**Related:**  
-`papers/car-drone-pupil-newton-einstein.md`,  
-`scripts/car_drone_pupil_newton_einstein.py`,  
-`papers/anisotropic-slip-option0.md`,  
-`papers/self-shielding-vs-untestability.md`,  
-`papers/no-go-superoscillation-tesseract.md`,  
+**Author:** Jesús Morales Souhail
+**Date:** July 2026
+**Status:** Experimental logic map (closes the car–drone–pupil result; points to correct probes)
+**Related:**
+`papers/car-drone-pupil-newton-einstein.md`,
+`scripts/car_drone_pupil_newton_einstein.py`,
+`papers/anisotropic-slip-option0.md`,
+`papers/self-shielding-vs-untestability.md`,
+`papers/no-go-superoscillation-tesseract.md`,
 `papers/resume.txt`
 
 ---
@@ -104,7 +104,7 @@ I use that rule for everything below.
 | **P1** | Amplification physics (open systems) | Lab + theory map | $\gamma\leftrightarrow\theta H_0$, $A_0$ | Only way unamplified seeds matter |
 | **P1** | Option 0 reading complete (slip papers) | DESI RSD+lensing | $\gamma=\Phi/\Psi$, $\mu,\Sigma$ | Cite, don’t invent |
 | **P2** | hi_class / MGCAMB **only if** $A_0$ + $f$ make $\lvert \eta-1 \rvert$ reachable | Perturbations | Anisotropic stress | Not before amplitude honesty |
-| **P2** | GROMACS “work vs heat” micro-demo | nm–μm, ns–μs | 1st law balance | Local “shield + extraction” pedagogy |
+| **P2** | GROMACS “work vs heat” micro-demo | nm–μm, ns–μs | 1st law balance | Local shield and extraction demo |
 | **Avoid** | Pupil / car / tesseract as cosmology tests | Human scale | Diffraction | Closed wrong |
 
 ---

@@ -1,9 +1,9 @@
 # Car + drone at 120 km/h: pupil diffraction under Newton and Einstein
 
-**Author:** Jesús Morales Souhail  
-**Date:** July 2026  
-**Status:** Quantitative thought experiment (no tesseract)  
-**Script:** `scripts/car_drone_pupil_newton_einstein.py`  
+**Author:** Jesús Morales Souhail
+**Date:** July 2026
+**Status:** Quantitative thought experiment (no tesseract)
+**Script:** `scripts/car_drone_pupil_newton_einstein.py`
 **Related:** `papers/self-shielding-vs-untestability.md`, `papers/no-go-superoscillation-tesseract.md`
 
 ---
@@ -69,7 +69,7 @@ With car and drone co-moving, relative velocity is zero. The passenger and the d
 
 ### E) When SR would matter optically
 
-Aberration comparable to the Airy angle at 1 mm needs $v \sim \theta c \approx 200\,\mathrm{km/s}$ (about $6000\times$ 120 km/h).  
+Aberration comparable to the Airy angle at 1 mm needs $v \sim \theta c \approx 200\,\mathrm{km/s}$ (about $6000\times$ 120 km/h).
 $\gamma-1\sim 1\%$ needs $v\sim 0.14\,c$.
 
 ### F) Cosmological expansion during the drive
@@ -104,7 +104,7 @@ Run: `python scripts/car_drone_pupil_newton_einstein.py`
 
 ## Status: CLOSED
 
-I lock this result as testing **local EM diffraction plus inertial SR at** $\beta\sim 10^{-7}$.  
+I lock this result as testing **local EM diffraction plus inertial SR at** $\beta\sim 10^{-7}$.
 It does **not** test cosmic expansion or any tesseract optical engine.
 
 | Diagnosis | Content |
